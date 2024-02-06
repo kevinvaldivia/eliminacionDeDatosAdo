@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "b1qXbpYN8p40jfMkJTgkWGKUNL3G5ioRlpN5rHW+yWWUOXgSfDzCbMIyCBDSqfAywxGVt083TNSguzrCb+6KUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\EliminarDato\\EliminarDato\\EliminarDato.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
